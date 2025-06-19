@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **programmerbusiness2@gmail.com**
 
-- 📄 Know about my experiences [4 years of experience with web-development](4 years of experience with web-development)
+- 📄 Know about my experiences (4 years of experience with web-development)
 
 - ⚡ Fun fact **I write better code at 2 AM than during normal working hours. Coincidence? I think not.**
 
