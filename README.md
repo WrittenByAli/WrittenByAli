@@ -1,4 +1,3 @@
-![logo](https://github.com/WrittenByAli/WrittenByAli/blob/main/Web%20Developer.jpg)
 <h1 align="center">WrittenByAli</h1>
 <h3 align="center">I'm a self-taught developer who enjoys making simple and user-friendly websites. </h3>
 <img align = "right" alt = "coding" src = "https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
