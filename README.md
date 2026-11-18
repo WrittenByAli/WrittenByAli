@@ -1,65 +1,78 @@
-<h1 align="center">Muhammad Ali</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Agentic+AI+Developer;RAG+%7C+Multi-Agent+Systems;Building+SaaS+Dashboards+%26+AI+Apps" alt="typing"/>
-</p>
+# Muhammad Ali
+### Full-Stack & Agentic AI Developer
 
-<p align="center">
-<a href="https://muhammad-ali-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.fiverr.com/ali_techwhiz"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muhammad-ali-swe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:programmerbusiness2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=RAG+%26+Multi-Agent+Systems;SaaS+Dashboards+%26+AI+Applications;BS+Software+Engineering+%E2%80%94+FAST-NUCES" alt="typing animation"/>
 
-<p align="center">
-I build AI-powered products — RAG pipelines, multi-agent systems, and full-stack SaaS. BS Software Engineering @ FAST-NUCES Islamabad.
-</p>
+<br>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-ali-portfolio-one.vercel.app/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-0F172A?style=for-the-badge&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/ali_techwhiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/muhammad-ali-swe)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:programmerbusiness2@gmail.com)
 
-### 🔥 Featured Work
-| Project | What it is |
-|---|---|
-| **[Rahbar_RAG](https://github.com/WrittenByAli/Rahbar_RAG)** | History-aware chess strategy recognition — PyTorch Residual CNNs + symbolic fact extraction |
+</div>
+
+<br>
+
+## About
+
+I design and build AI-powered products — retrieval-augmented generation pipelines, multi-agent systems, and full-stack SaaS applications — for clients and independent projects. Currently completing a BS in Software Engineering at FAST-NUCES Islamabad.
+
+<br>
+
+## Featured Work
+
+| Project | Description |
+|:---|:---|
+| **[Rahbar_RAG](https://github.com/WrittenByAli/Rahbar_RAG)** | History-aware chess strategy recognition using PyTorch Residual CNNs, bitboard symbolic fact extraction, and temporal tracking |
 | **[MindCheck](https://github.com/WrittenByAli/MindCheck)** | Chess-themed AI semester project (GrandMaster-Net) |
-| **[xi-lab](https://github.com/WrittenByAli/xi-lab)** | Chess AI research lab |
-| **[Eco-28](https://github.com/TahaSohail-Goat/Eco-28)** | Animated site build for a building-development client |
+| **[xi-lab](https://github.com/WrittenByAli/xi-lab)** | Research lab for chess AI model experimentation |
+| **[Eco-28](https://github.com/TahaSohail-Goat/Eco-28)** | Animated website built for a building-development client |
 
-### 🛠️ Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br>
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WrittenByAli&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WrittenByAli&theme=radical&hide_border=true" height="165"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrittenByAli&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+## Technical Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=339933"/>
+<br>
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032"/>
 </p>
 
-### 🏆 Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=WrittenByAli&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+<br>
 
-### 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WrittenByAli&theme=redical&hide_border=true"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+## GitHub Activity
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=WrittenByAli&color=blueviolet&style=flat-square&label=Profile+Views"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WrittenByAli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WrittenByAli&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8" height="165"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrittenByAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&langs_count=8"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WrittenByAli&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=ffffff"/>
+</p>
+
+<br>
+
+<div align="center">
+
+**Open to freelance projects and collaboration.**
+<sub>programmerbusiness2@gmail.com</sub>
+
+</div>
