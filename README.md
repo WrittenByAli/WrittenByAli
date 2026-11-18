@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Ali 
+# Hi there, I'm Muhammad Ali
 
 Based in Islamabad, Pakistan &nbsp;|&nbsp; Building AI-powered products that solve real problems
 
@@ -8,10 +8,10 @@ Welcome to my GitHub! I'm a full-stack and agentic AI developer who enjoys build
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,pytorch,mongodb,postgres,docker,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,php,cpp,react,nextjs,nodejs,express,py,pytorch,opencv,mongodb,postgres,docker,git,vscode&theme=dark"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@ Animated website built for a building-development client.
 
 ---
 
-### Let's Connect!
+### Let's Connect
 
 I'm always open to freelance work, collaborations, or just talking shop about AI and web dev. Feel free to reach out.
 
@@ -41,6 +41,11 @@ I'm always open to freelance work, collaborations, or just talking shop about AI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-swe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:programmerbusiness2@gmail.com)
 
+---
+
+### Fun Fact
+
+I write better code at 2 AM than during normal working hours. Coincidence? I think not.
 
 ---
 
