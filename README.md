@@ -1,23 +1,29 @@
 <h1 align="center">Muhammad Ali</h1>
-<h3 align="center">Full-Stack & Agentic AI Developer — RAG · Multi-Agent Systems · SaaS Dashboards</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Agentic+AI+Developer;RAG+%7C+Multi-Agent+Systems;Building+SaaS+Dashboards+%26+AI+Apps" alt="typing"/>
+</p>
 
 <p align="center">
 <a href="https://muhammad-ali-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.fiverr.com/ali_techwhiz"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~yourhandle"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 <a href="https://linkedin.com/in/muhammad-ali-swe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:programmerbusiness2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-I build AI-powered products — RAG pipelines, multi-agent systems, and full-stack SaaS — for clients and my own projects. BS Software Engineering @ FAST-NUCES Islamabad.
+<p align="center">
+I build AI-powered products — RAG pipelines, multi-agent systems, and full-stack SaaS. BS Software Engineering @ FAST-NUCES Islamabad.
+</p>
+
+<br/>
 
 ### 🔥 Featured Work
 | Project | What it is |
 |---|---|
-| **[Rahbar_RAG](https://github.com/WrittenByAli/Rahbar_RAG)** | History-aware chess strategic plan recognition — PyTorch Residual CNNs, bitboard symbolic fact extraction, temporal tracking |
+| **[Rahbar_RAG](https://github.com/WrittenByAli/Rahbar_RAG)** | History-aware chess strategy recognition — PyTorch Residual CNNs + symbolic fact extraction |
 | **[MindCheck](https://github.com/WrittenByAli/MindCheck)** | Chess-themed AI semester project (GrandMaster-Net) |
-| **[xi-lab](https://github.com/WrittenByAli/xi-lab)** | Chess AI research lab — model experiments & analysis |
-| **[Eco-28](https://github.com/TahaSohail-Goat/Eco-28)** | Animated website build for a building-development client |
+| **[xi-lab](https://github.com/WrittenByAli/xi-lab)** | Chess AI research lab |
+| **[Eco-28](https://github.com/TahaSohail-Goat/Eco-28)** | Animated site build for a building-development client |
 
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,4 +46,20 @@ I build AI-powered products — RAG pipelines, multi-agent systems, and full-sta
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrittenByAli&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
+
+### 🏆 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=WrittenByAli&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WrittenByAli&theme=redical&hide_border=true"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=WrittenByAli&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
