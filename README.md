@@ -1,6 +1,6 @@
-# Hi there, I'm Muhammad Ali 👋
+# Hi there, I'm Muhammad Ali 
 
-🌍 Based in Islamabad, Pakistan &nbsp;|&nbsp; 💡 Building AI-powered products that solve real problems
+Based in Islamabad, Pakistan &nbsp;|&nbsp; Building AI-powered products that solve real problems
 
 *Full-Stack Developer | Agentic AI Engineer | RAG Systems | SaaS Dashboards | Freelancer*
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a full-stack and agentic AI developer who enjoys build
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[Rahbar_RAG](https://github.com/WrittenByAli/Rahbar_RAG)**
 History-aware chess strategy recognition using PyTorch Residual CNNs, bitboard symbolic fact extraction, and temporal tracking.
@@ -32,7 +32,7 @@ Animated website built for a building-development client.
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 I'm always open to freelance work, collaborations, or just talking shop about AI and web dev. Feel free to reach out.
 
@@ -44,7 +44,7 @@ I'm always open to freelance work, collaborations, or just talking shop about AI
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=WrittenByAli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
